@@ -1,4 +1,4 @@
-package com.felis.resource;
+package com.felis.resource.entity;
 
 public class Result {
     private String msg;

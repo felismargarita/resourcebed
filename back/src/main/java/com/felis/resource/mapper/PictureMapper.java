@@ -1,5 +1,6 @@
-package com.felis.resource;
+package com.felis.resource.mapper;
 
+import com.felis.resource.entity.Picture;
 import org.springframework.stereotype.Repository;
 
 @Repository

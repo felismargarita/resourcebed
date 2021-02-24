@@ -1,5 +1,7 @@
-package com.felis.resource;
+package com.felis.resource.service;
 
+import com.felis.resource.entity.Picture;
+import com.felis.resource.mapper.PictureMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
