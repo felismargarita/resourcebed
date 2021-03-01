@@ -10,7 +10,7 @@ export default function IndexPage() {
       accept=".jpg, .jpeg, .png, .gif"
       onChange={info=>{
         if(info.file.status === 'done'){
-          setUrl("http://felis.top:9000/picture?md5="+info.file.response.info)
+          setUrl("https://felis.top:9000/picture?md5="+info.file.response.info)
         }
       }}
       >
